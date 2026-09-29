@@ -29,7 +29,7 @@ export default function Navbar() {
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-5 py-3 md:px-8">
         <a href="#home" className="flex items-center gap-3">
           <img
-            src="/images/logo.png"
+            src="/sheshisane-website/images/logo.png"
             alt="SHESHISANE (PTY) LTD logo"
             className="h-11 w-11 object-contain md:h-12 md:w-12"
           />

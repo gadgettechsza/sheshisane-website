@@ -31,12 +31,12 @@ export default function About() {
         <div className="reveal">
           <div className="relative">
             <img
-              src="/images/hero-image.jpg"
+              src="/sheshisane-website/images/hero-image.jpg"
               alt="Tutor guiding a student through classwork"
               className="aspect-[4/5] w-full rounded-3xl object-cover shadow-2xl"
             />
             <img
-              src="/images/welding-action.jpg"
+              src="/sheshisane-website/images/welding-action.jpg"
               alt="Welder working with sparks in a workshop"
               className="absolute -bottom-10 -right-6 hidden aspect-[4/3] w-56 rounded-2xl border-4 border-white object-cover shadow-2xl sm:block md:w-64"
             />

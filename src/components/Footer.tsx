@@ -15,7 +15,7 @@ export default function Footer() {
         <div className="grid gap-10 border-b border-white/10 pb-12 sm:grid-cols-2 lg:grid-cols-4">
           <div>
             <div className="flex items-center gap-3">
-              <img src="/images/logo.png" alt="SHESHISANE logo" className="h-11 w-11 rounded-lg bg-white/95 object-contain p-1" />
+              <img src="/sheshisane-website/images/logo.png" alt="SHESHISANE logo" className="h-11 w-11 rounded-lg bg-white/95 object-contain p-1" />
               <div>
                 <p className="font-display text-lg font-bold text-white">SHESHISANE</p>
                 <p className="text-[11px] uppercase tracking-widest text-orange-400">{site.slogan}</p>

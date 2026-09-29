@@ -9,7 +9,7 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/images/hero-image.jpg"
+          src="/sheshisane-website/images/hero-image.jpg"
           alt="Welding sparks illuminating a workshop"
           className="h-full w-full object-cover opacity-40"
         />
@@ -77,7 +77,7 @@ export default function Hero() {
         <div className="relative hidden animate-fade-in lg:block [animation-delay:0.3s]">
           <div className="relative mx-auto max-w-sm rounded-[2rem] border border-white/10 bg-white/5 p-6 shadow-2xl backdrop-blur-md">
             <img
-              src="/images/logo.png"
+              src="/sheshisane-website/images/logo.png"
               alt="SHESHISANE logo"
               className="mx-auto h-48 w-48 rounded-2xl bg-white/95 object-contain p-4 shadow-lg"
             />

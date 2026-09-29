@@ -22,7 +22,7 @@ export const services = [
     description:
       "Personalised FET Mathematics tutoring built to build confidence, sharpen technique and lift results — from homework support to final exam mastery.",
     icon: "graduation",
-    image: "/images/tutoring.jpg",
+    image: "/sheshisane-website/images/tutoring.jpg",
     features: [
       "FET Grade 10–12 curriculum",
       "Homework support",
@@ -38,7 +38,7 @@ export const services = [
     description:
       "From security gates to bespoke steel fabrication, our welders deliver durable, precision-crafted metalwork for homes and businesses.",
     icon: "spark",
-    image: "/images/welding-action.jpg",
+    image: "/sheshisane-website/images/welding-action.jpg",
     features: [
       "Gates",
       "Burglar bars",
@@ -70,32 +70,32 @@ export const services = [
 
 export const gallery = [
   {
-    src: "/images/tutor-explaining-algebraic.jpg",
+    src: "/sheshisane-website/images/tutor-explaining-algebraic.jpg",
     alt: "Mathematics tutor explaining algebraic equations on a whiteboard",
     category: "Tutoring",
   },
   {
-    src: "/images/tutoring-session-with-students.jpg",
+    src: "/sheshisane-website/images/tutoring-session-with-students.jpg",
     alt: "One-on-one tutoring session with a student",
     category: "Tutoring",
   },
   {
-    src: "/images/welding-action-2.jpg",
+    src: "/sheshisane-website/images/welding-action-2.jpg",
     alt: "Welder working with steel and sparks flying",
     category: "Welding",
   },
   {
-    src: "/images/welding-project-2.jpg",
+    src: "/sheshisane-website/images/welding-project-2.jpg",
     alt: "Close-up of a welding process with bright sparks",
     category: "Welding",
   },
   {
-    src: "/images/welding-project-1.jpg",
+    src: "/sheshisane-website/images/welding-project-1.jpg",
     alt: "Custom fabricated metal gate",
     category: "Welding",
   },
   {
-    src: "/images/welding-action1.jpg",
+    src: "/sheshisane-website/images/welding-action1.jpg",
     alt: "Welder using a grinder in a workshop with sparks flying",
     category: "Welding",
   },
